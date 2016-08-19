@@ -2,7 +2,7 @@ $light-green: #85b125;
 $dark-green: #7aa61f;
 $darker-green: darken($dark-green, 3%);
 
-html, body {
+html, body, .container, .content-container {
 	min-height: 100%;
 }
 
