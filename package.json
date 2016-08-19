@@ -1,0 +1,14 @@
+{
+  "name": "dashboard-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node-sass -w src/style.scss dest/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^3.8.0"
+  }
+}
